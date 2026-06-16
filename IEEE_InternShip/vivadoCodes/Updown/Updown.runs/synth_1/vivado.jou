@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Tue Jun 16 15:23:45 2026
+# Process ID: 19572
+# Current directory: C:/Vivado_projects/IEEE_InternShip/vivadoCodes/Updown/Updown.runs/synth_1
+# Command line: vivado.exe -log updownCounter.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source updownCounter.tcl
+# Log file: C:/Vivado_projects/IEEE_InternShip/vivadoCodes/Updown/Updown.runs/synth_1/updownCounter.vds
+# Journal file: C:/Vivado_projects/IEEE_InternShip/vivadoCodes/Updown/Updown.runs/synth_1\vivado.jou
+# Running On: LAPTOP-1RP5F08N, OS: Windows, CPU Frequency: 3294 MHz, CPU Physical cores: 12, Host memory: 16438 MB
+#-----------------------------------------------------------
+source updownCounter.tcl -notrace

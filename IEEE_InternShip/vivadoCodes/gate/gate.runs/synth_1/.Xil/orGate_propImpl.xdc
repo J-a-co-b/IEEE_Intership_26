@@ -1,0 +1,7 @@
+set_property SRC_FILE_INFO {cfile:C:/Vivado_projects/IEEE_InternShip/vivadoCodes/gate/gate.srcs/constrs_1/new/and_constraints.xdc rfile:../../../gate.srcs/constrs_1/new/and_constraints.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:2 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict {PACKAGE_PIN V2 IOSTANDARD LVCMOS33} [get_ports {a}]
+set_property src_info {type:XDC file:1 line:3 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict {PACKAGE_PIN U2 IOSTANDARD LVCMOS33} [get_ports {b}]
+set_property src_info {type:XDC file:1 line:6 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict {PACKAGE_PIN G1 IOSTANDARD LVCMOS33} [get_ports {y}]
