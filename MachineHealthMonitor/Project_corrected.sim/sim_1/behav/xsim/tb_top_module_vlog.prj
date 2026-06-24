@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../../Users/Jacob Saji/Downloads/clock_divider.v" \
+"../../../../../../Users/Jacob Saji/Downloads/comparator_temp.v" \
+"../../../../../../Users/Jacob Saji/Downloads/comparator_vib.v" \
+"../../../../../../Users/Jacob Saji/Downloads/top_module.v" \
+"../../../../../../Users/Jacob Saji/Downloads/warning_generator.v" \
+"../../../../../../Users/Jacob Saji/Downloads/tb_top_module.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

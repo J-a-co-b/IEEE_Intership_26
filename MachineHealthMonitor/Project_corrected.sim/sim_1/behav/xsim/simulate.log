@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+--- Starting Simulation ---
+Time 100000: SCENARIO 1 - Healthy
+Time 1100000: SCENARIO 2 - High Temp
+Time 3700000: SCENARIO 3 - Both Sensors Danger
+Time 6300000: SCENARIO 4 - Recovery to Safe
+Time 6800000: Simulation Complete!
+$finish called at time : 6800 ns : File "C:/Users/Jacob Saji/Downloads/tb_top_module.v" Line 104

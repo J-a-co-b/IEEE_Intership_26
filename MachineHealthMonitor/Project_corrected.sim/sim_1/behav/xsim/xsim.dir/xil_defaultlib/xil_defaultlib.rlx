@@ -1,0 +1,12 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Internship_26/Project_corrected/Project_corrected.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Users/Jacob Saji/Downloads/clock_divider.v,1782258955,verilog,,C:/Users/Jacob Saji/Downloads/comparator_temp.v,,clock_divider,,,,,,,,
+C:/Users/Jacob Saji/Downloads/comparator_temp.v,1782191109,verilog,,C:/Users/Jacob Saji/Downloads/comparator_vib.v,,comparator_temp,,,,,,,,
+C:/Users/Jacob Saji/Downloads/comparator_vib.v,1782191111,verilog,,C:/Users/Jacob Saji/Downloads/top_module.v,,comparator_vib,,,,,,,,
+C:/Users/Jacob Saji/Downloads/decision_logic.v,1782191115,verilog,,C:/Users/Jacob Saji/Downloads/top_module.v,,decision_logic,,,,,,,,
+C:/Users/Jacob Saji/Downloads/tb_top_module.v,1782191132,verilog,,,,tb_top_module,,,,,,,,
+C:/Users/Jacob Saji/Downloads/top_module.v,1782191124,verilog,,C:/Users/Jacob Saji/Downloads/warning_generator.v,,top_module,,,,,,,,
+C:/Users/Jacob Saji/Downloads/warning_generator.v,1782191129,verilog,,C:/Users/Jacob Saji/Downloads/tb_top_module.v,,warning_generator,,,,,,,,
